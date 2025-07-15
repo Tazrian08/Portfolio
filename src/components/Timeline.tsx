@@ -25,6 +25,7 @@ function Timeline() {
             <p>
               Python and Java Instructor. Spcialized in OOP, Data Structures and Algorithms.
             </p>
+
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -34,6 +35,9 @@ function Timeline() {
           >
             <h3 className="vertical-timeline-element-title">BSc in Computer Science and Engineering</h3>
             <h4 className="vertical-timeline-element-subtitle">BRAC University</h4>
+            <p>
+              CGPA: 3.89
+            </p>
 
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -44,7 +48,9 @@ function Timeline() {
           >
             <h3 className="vertical-timeline-element-title">HSC Examination</h3>
             <h4 className="vertical-timeline-element-subtitle">Birshreshtha Noor Mohammad Public College, Dhaka</h4>
-
+           <p>
+              GPA: 5.00
+            </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -54,6 +60,9 @@ function Timeline() {
           >
             <h3 className="vertical-timeline-element-title">SSC Examination</h3>
             <h4 className="vertical-timeline-element-subtitle">Birshreshtha Noor Mohammad Public College, Dhaka</h4>
+            <p>
+              GPA: 5.00
+            </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
