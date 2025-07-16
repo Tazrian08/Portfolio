@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Undergraduate TA</h3>
             <h4 className="vertical-timeline-element-subtitle">BRAC University, CSE Department</h4>
             <p>
-              Python and Java Instructor. Spcialized in OOP, Data Structures and Algorithms.
+              Python and Java Instructor. Specialized in OOP, Data Structures and Algorithms.
             </p>
 
           </VerticalTimelineElement>

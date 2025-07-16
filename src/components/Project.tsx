@@ -17,7 +17,7 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/Tazrian08/Freedom-Within" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/Tazrian08/Freedom-Within" target="_blank" rel="noreferrer"><h2>Freedom Within</h2></a>
-                <p>A Therapist Office Management System. It enables Thrapists to maintain their own profile and manage their appointments through the website. Patients can make appointments using the website as well. Made using: Angular, Laravel, MySQL. A video demo can be found in the Repositry README</p>
+                <p>A Therapist Office Management System. It enables Thrapists to maintain their own profile and manage their appointments through the website. Patients can make appointments using the website as well. Made using: Angular, Laravel, MySQL. A video demo can be found in the Repository README</p>
             </div>
             <div className="project">
                 <a href="https://github.com/Tazrian08/471-Project" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
