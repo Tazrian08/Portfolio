@@ -55,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
     "@types/react-vertical-timeline-component": "^3.3.6"
   }
 }
