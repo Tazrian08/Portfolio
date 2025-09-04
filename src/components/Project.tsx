@@ -6,6 +6,7 @@ import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
+import mock08 from '../assets/images/mock07.png';
 
 import '../assets/styles/Project.scss';
 
@@ -14,6 +15,11 @@ function Project() {
     <div className="projects-container" id="projects">
         <h1>Personal Projects</h1>
         <div className="projects-grid">
+            <div className="project">
+                <a href="https://digitalcollectioncamera.com" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://digitalcollectioncamera.com" target="_blank" rel="noreferrer"><h2>Digital Collection</h2></a>
+                <p>An e-commerce platform for professional camera equipment, built with the MERN stack. Features include secure authentication, shopping cart & checkout flow, product management dashboard, and responsive UI. Deployed on a Hostinger VPS with Nginx & PM2, and currently being used for real business operations.</p>
+            </div>
             <div className="project">
                 <a href="https://github.com/Tazrian08/Freedom-Within" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/Tazrian08/Freedom-Within" target="_blank" rel="noreferrer"><h2>Freedom Within</h2></a>
