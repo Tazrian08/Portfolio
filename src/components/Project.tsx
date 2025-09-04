@@ -6,7 +6,7 @@ import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
+import mock08 from '../assets/images/mock08.jpg';
 
 import '../assets/styles/Project.scss';
 
