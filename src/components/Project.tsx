@@ -38,7 +38,7 @@ function Project() {
             <div className="project">
                 <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Social Media Site</h2></a>
-                <p>Social Media site where people can sign up, add friends, create posts and maintain their personal networks. The site includes a fully functional AI chatbot powered by LLAMA-2-7B-Chat-GGUF. Made using: Angular, Laravel, MySQL. Site demo can be found as screenshots in the repository README</p>
+                <p>Social Media site where people can sign up, add friends, create posts and maintain their personal networks. The site includes a fully functional real time chat app using Pusher and an AI chatbot powered by LLAMA-2-7B-Chat-GGUF. Made using: Angular, Laravel, MySQL. Site demo can be found as screenshots in the repository README</p>
             </div>
             <div className="project">
                 <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
