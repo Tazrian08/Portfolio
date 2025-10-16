@@ -31,23 +31,23 @@ function Project() {
                 <p>A travel agency dedicated to ensure quality service and competetive travel packages. Includes details about travel packages, destinations, tourist attractions etc. Made using: Angular, Laravel and MySQL. A video demo has been included in the Repository README</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Fabric Flow</h2></a>
+                <a href="https://github.com/Nafisa7503/FabricFlow" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Nafisa7503/FabricFlow" target="_blank" rel="noreferrer"><h2>Fabric Flow</h2></a>
                 <p>A Fabric Shop Management system. A portal used by the fabric shob employees to maintain orders, expenses and inventory. Made using: MERN stack (MongoDB, ExpressJs, React, Nextjs)</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Social Media Site</h2></a>
+                <a href="https://github.com/Tazrian08/470-Project/tree/Candy" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Tazrian08/470-Project/tree/Candy" target="_blank" rel="noreferrer"><h2>Social Media Site</h2></a>
                 <p>Social Media site where people can sign up, add friends, create posts and maintain their personal networks. The site includes a fully functional real time chat app using Pusher and an AI chatbot powered by LLAMA-2-7B-Chat-GGUF. Made using: Angular, Laravel, MySQL. Site demo can be found as screenshots in the repository README</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>The Frustration Game</h2></a>
+                <a href="https://github.com/Purbae16/423-project/tree/Tazrian" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Purbae16/423-project/tree/Tazrian" target="_blank" rel="noreferrer"><h2>The Frustration Game</h2></a>
                 <p>A small scale replication of the famous flash game named "The Hardest Game". Made using Python and OpenGL</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>Assembly Banking Management System</h2></a>
+                <a href="https://github.com/Tazrian08/341-Project" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Tazrian08/341-Project" target="_blank" rel="noreferrer"><h2>Assembly Banking Management System</h2></a>
                 <p>A small scale Bank Management system in terminal. Provides functionalities for users to login, withdraw/depoist cash, apply/pay loans and view transaction history. Made entirely using MASM Assembly (x86 Architecture)</p>
             </div>
             
